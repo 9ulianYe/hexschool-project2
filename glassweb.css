@@ -526,7 +526,7 @@ select {
   }
 }
 
-@media (max-width: 430px) {
+@media (max-width: 540px) {
   .footer {
     display: flex;
     flex-direction: row-reverse;
